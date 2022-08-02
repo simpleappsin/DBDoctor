@@ -1,7 +1,7 @@
 # DBDoctor
 * DBDoctor, gives you an opportunity to save your data files and insert them into your software again. Everyone needs their data to be safe.
 
-# What to do after save it?
+# What to do before save it?
 * Please after you save it try to insert the data file back in and see that nothin is missing. (This is very low chance but to avoid that risk please check.) You will be good to go. I have saved many files and nothing was missing in any of my attempt.
 
 # Features & Tech
